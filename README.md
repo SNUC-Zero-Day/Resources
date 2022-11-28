@@ -5,7 +5,7 @@ This README contains a list of links to Open Source as well Closed Source Resour
 
 ## Contents
 1. [GNU/Linux](#gnulinux)
-2. [Git/Github](#gitandgithub)
+2. [Git/Github](#git-and-github)
 3. [Networking](#networking)
 4. [Programming](#programming)
 
