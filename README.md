@@ -5,6 +5,9 @@ This README contains a list of links to Open Source as well Closed Source Resour
 
 ## Contents
 1. [GNU/Linux](#gnulinux)
+2. [Git/Github](#gitandgithub)
+3. [Networking](#networking)
+4. [Programming](#programming)
 
 ## GNU/Linux
 
@@ -30,3 +33,7 @@ This README contains a list of links to Open Source as well Closed Source Resour
 > Synopsis: UNIX and Linux System Administration Handbook, Fifth Edition is today’s definitive guide to installing, configuring and maintaining any Unix or Linux system -- including the systems that provide core Internet and cloud infrastructure.
 
 > Read: https://www.pdfdrive.com/unix-and-linux-system-administration-handbook-e158422517.html
+
+## Git and Github
+## Networking
+## Programming
