@@ -8,3 +8,12 @@ This README contains a list of links to Open Source as well Closed Source Resour
 > Topic Gist:  Linux is an operating system: a series of programs that let you interact with your computer and run other programs. An operating system consists of various fundamental programs which are needed by your computer so that it can communicate and receive instructions from users; read and write data to hard disks, tapes, and printers; control the use of memory; and run other software. The most important part of an operating system is the kernel. In a GNU/Linux system, Linux is the kernel component. The rest of the system consists of other programs, many of which were written by or for the GNU Project. Because the Linux kernel alone does not form a working operating system, we prefer to use the term “GNU/Linux” to refer to systems that many people casually refer to as “Linux”. 
 
 ### Links
+1. Linux Bible - Christopher Negus
+> Synopsis: The industry favorite Linux guide Linux Bible, 9th Edition is the ultimate hands-on Linux user guide, whether you're a true beginner or a more advanced user navigating recent changes. this updated tenth edition covers the latest versions of Red Hat Enterprise Linux (RHEL 8), Fedora 30, and Ubuntu 18.04 LTS. It includes information on cloud computing, with new guidance on containerization, Ansible automation, and Kubernetes and OpenShift. (Soure: Amazon)
+
+> Read: https://raw.githubusercontent.com/sabuhish/E-Books-1/master/Linux/Linux%20Bible%2C%209th%20Edition.pdf
+
+2. How Linux Works: What Every Superuser Should Know
+> Synopsis: Unlike some operating systems, Linux doesn’t try to hide the important bits from you—it gives you full control of your computer. But to truly master Linux, you need to understand its internals, like how the system boots, how networking works, and what the kernel actually does.In this completely revised second edition of the perennial best seller How Linux Works, author Brian Ward makes the concepts behind Linux internals accessible to anyone curious about the inner workings of the operating system. (Source: Amazon)
+
+> Read: https://www.pdfdrive.com/how-linux-works-what-every-superuser-should-know-e33595259.html
