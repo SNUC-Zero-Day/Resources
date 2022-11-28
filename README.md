@@ -51,5 +51,19 @@ This README contains a list of links to Open Source as well Closed Source Resour
 > Read: https://www.pdfdrive.com/unix-and-linux-system-administration-handbook-e158422517.html
 
 ## Git and Github
+### Video/Audio Links
+1. Git and Github for Beginners
+> Watch: https://www.youtube.com/watch?v=RGOj5yH7evk&t
+
+2. Git and Github (Net Ninja)
+> Watch: https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
+
+3. Git and Github (Tech with Tim)
+> Watch: https://www.youtube.com/watch?v=DVRQoVRzMIY
+
+### Books
+Universal Book: Pro Git
+> Read: https://git-scm.com/book/en/v2
+
 ## Networking
 ## Programming
