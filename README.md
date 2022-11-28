@@ -4,7 +4,7 @@ This README contains a list of links to Open Source as well Closed Source Resour
 ![image](https://user-images.githubusercontent.com/96528048/204172358-5f4db78b-2de6-4604-8514-f4bd1aa99184.png)
 
 ## Contents
-1. [GNU/Linux](#GNU/Linux)
+1. [GNU/Linux](#gnulinux)
 
 ## GNU/Linux
 
