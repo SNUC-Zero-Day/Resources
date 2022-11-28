@@ -17,3 +17,13 @@ This README contains a list of links to Open Source as well Closed Source Resour
 > Synopsis: Unlike some operating systems, Linux doesn’t try to hide the important bits from you—it gives you full control of your computer. But to truly master Linux, you need to understand its internals, like how the system boots, how networking works, and what the kernel actually does.In this completely revised second edition of the perennial best seller How Linux Works, author Brian Ward makes the concepts behind Linux internals accessible to anyone curious about the inner workings of the operating system. (Source: Amazon)
 
 > Read: https://www.pdfdrive.com/how-linux-works-what-every-superuser-should-know-e33595259.html
+
+3. Linux Command Line
+> Synopsis: Designed for the new command line user, this 555-page volume covers the same material as LinuxCommand.org but in much greater detail. In addition to the basics of command line use and shell scripting, The Linux Command Line includes chapters on many common programs used on the command line, as well as more advanced topics.
+
+> Read: https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf/download
+
+4. UNIX and Linux System Administration Handbook
+> Synopsis: UNIX and Linux System Administration Handbook, Fifth Edition is today’s definitive guide to installing, configuring and maintaining any Unix or Linux system -- including the systems that provide core Internet and cloud infrastructure.
+
+> Read: https://www.pdfdrive.com/unix-and-linux-system-administration-handbook-e158422517.html
